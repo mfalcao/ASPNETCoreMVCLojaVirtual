@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 02\\CursoAsp.Net\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj": {}
+    "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj": {}
   },
   "projects": {
-    "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 02\\CursoAsp.Net\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj": {
+    "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 02\\CursoAsp.Net\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj",
-        "projectName": "ProjetoZero",
-        "projectPath": "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 02\\CursoAsp.Net\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj",
+        "projectUniqueName": "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj",
+        "projectName": "EstruturaMVC",
+        "projectPath": "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\EstruturaMVC.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 02\\CursoAsp.Net\\PrimeiroProjeto\\ProjetoZero\\obj\\",
+        "outputPath": "C:\\Repositorio\\ASPNETCoreMVCLojaVirtual\\Seção 06\\EstruturaMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
